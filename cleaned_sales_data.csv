@@ -1,0 +1,301 @@
+order_id,customer_name,email,region,category,order_date,quantity,unit_price,status,sales_rep,revenue,order_month,order_quarter
+ORD-0001,Allison Hill,swall@example.org,North,Clothing,2024-01-01,17,270.85,Pending,Nicole Good,4604.45,2024-01,2024Q1
+ORD-0002,Noah Rhodes,jeffery39@example.com,West,Electronics,2024-01-02,13,41.97,Pending,Nathan Coleman,545.61,2024-01,2024Q1
+ORD-0003,Angie Henderson,courtneyberger@example.net,West,,2024-01-03,4,426.95,Completed,David Murray,1707.8,2024-01,2024Q1
+ORD-0004,Daniel Wagner,parkerscott@example.net,South,Food,2024-01-04,10,495.12,Cancelled,,4951.2,2024-01,2024Q1
+ORD-0005,Cristian Santos,jessica14@example.com,East,Clothing,2024-01-05,3,339.65,Completed,Colin Golden,1018.95,2024-01,2024Q1
+ORD-0006,Connie Lawrence,ithompson@example.net,East,Clothing,2024-01-06,9,225.75,Pending,,2031.75,2024-01,2024Q1
+ORD-0007,Abigail Shaffer,alyssa42@example.com,East,Food,2024-01-07,13,325.55,Cancelled,,4232.15,2024-01,2024Q1
+ORD-0008,Gina Moore,scoffey@example.net,West,,2024-01-08,18,299.23,Cancelled,Amanda Keller,5386.14,2024-01,2024Q1
+ORD-0009,Gabrielle Davis,linda71@example.org,West,Food,2024-01-09,15,194.89,Completed,Taylor Small,2923.35,2024-01,2024Q1
+ORD-0010,Ryan Munoz,michelleramsey@example.com,West,Clothing,2024-01-10,4,37.48,Pending,Austin Wheeler,149.92,2024-01,2024Q1
+ORD-0011,Monica Herrera,,North,Clothing,2024-01-11,15,411.65,Completed,Michael Brennan,6174.75,2024-01,2024Q1
+ORD-0012,Jamie Arnold,christopher60@example.com,South,Clothing,2024-01-12,2,189.06,Pending,Andrew Gonzales,378.12,2024-01,2024Q1
+ORD-0013,Lisa Hensley,gibsonemily@example.net,West,Electronics,2024-01-13,15,410.3,Pending,Nicole Parsons,6154.5,2024-01,2024Q1
+ORD-0014,Michele Williams,brenda51@example.net,South,,2024-01-14,8,129.99,,Wyatt Young,1039.92,2024-01,2024Q1
+ORD-0015,Dylan Miller,thomasharvey@example.net,South,Clothing,2024-01-15,8,5.51,Completed,Laura Ray,44.08,2024-01,2024Q1
+ORD-0016,Brian Ramirez,rose31@example.net,East,Electronics,2024-01-16,17,83.67,Cancelled,Sabrina Young,1422.39,2024-01,2024Q1
+ORD-0017,Holly Wood,tblankenship@example.net,North,Electronics,2024-01-17,12,236.93,Completed,Victoria Boyd,2843.16,2024-01,2024Q1
+ORD-0018,Derek Zuniga,cwilson@example.org,West,Clothing,2024-01-18,19,472.43,Cancelled,,8976.17,2024-01,2024Q1
+ORD-0019,Lisa Jackson,wendy11@example.org,East,Electronics,2024-01-19,9,55.59,Cancelled,Donald Hawkins,500.31,2024-01,2024Q1
+ORD-0020,Carla Gray,paulwatson@example.net,East,Electronics,2024-01-20,9,427.83,Completed,Nancy Thompson,3850.47,2024-01,2024Q1
+ORD-0021,Margaret Hawkins DDS,umatthews@example.org,West,Food,2024-01-21,5,265.88,Cancelled,Kristi Williams,1329.4,2024-01,2024Q1
+ORD-0022,Patty Perez,fpena@example.net,South,Clothing,2024-01-22,6,413.83,Cancelled,Mason James,2482.98,2024-01,2024Q1
+ORD-0023,Ethan Adams,rcrosby@example.org,East,Electronics,2024-01-23,2,152.7,Pending,Melissa Russell,305.4,2024-01,2024Q1
+ORD-0024,Tommy Walter,jeff73@example.com,South,,2024-01-24,13,420.77,Pending,Clinton Medina,5470.01,2024-01,2024Q1
+ORD-0025,Matthew Foster,,North,Electronics,2024-01-25,6,387.55,Pending,Darin Mathews,2325.3,2024-01,2024Q1
+ORD-0026,Judy Baker,bruce43@example.org,South,Electronics,2024-01-26,5,118.88,,Joel Brown,594.4,2024-01,2024Q1
+ORD-0027,Justin Baker,ndavis@example.net,North,Electronics,2024-01-27,1,70.01,,Jason Moreno,70.01,2024-01,2024Q1
+ORD-0028,Stephanie Ross,williamsmatthew@example.org,South,Electronics,2024-01-28,6,434.69,Pending,David Rivera,2608.14,2024-01,2024Q1
+ORD-0029,Zachary Hicks,caseyhubbard@example.org,East,Electronics,2024-01-29,6,481.8,,Jerry Watson,2890.8,2024-01,2024Q1
+ORD-0030,Anthony Rodriguez,,East,,2024-01-30,16,20.49,Completed,Sandra Williams,327.84,2024-01,2024Q1
+ORD-0031,Rebecca Henderson,lisahall@example.org,North,Clothing,2024-01-31,4,366.98,Completed,Larry Williams,1467.92,2024-01,2024Q1
+ORD-0032,James Ferrell,ramireztracey@example.org,West,,2024-02-01,11,455.21,Completed,Robert Matthews,5007.31,2024-02,2024Q1
+ORD-0033,Tricia Valencia,lauren10@example.org,North,Clothing,2024-02-02,9,429.39,Completed,Claire Clark,3864.51,2024-02,2024Q1
+ORD-0034,Nathan Maldonado,howardkristina@example.net,North,Electronics,2024-02-03,3,482.44,Pending,Elizabeth Stout,1447.32,2024-02,2024Q1
+ORD-0035,Debra Davidson,alfred40@example.org,South,Clothing,2024-02-04,19,381.25,Pending,Colton Figueroa,7243.75,2024-02,2024Q1
+ORD-0036,Jeffrey Chavez,vfox@example.org,South,Clothing,2024-02-05,8,223.94,Cancelled,Nicole Rocha,1791.52,2024-02,2024Q1
+ORD-0037,Sherri Baker,xwest@example.net,North,Clothing,2024-02-06,5,159.42,Completed,Michele Sanders,797.1,2024-02,2024Q1
+ORD-0038,Cassandra Gaines,hayesjeffrey@example.net,East,Clothing,2024-02-07,4,163.77,Completed,Frank Campbell,655.08,2024-02,2024Q1
+ORD-0039,Elizabeth Fowler,acostaregina@example.net,South,,2024-02-08,6,363.59,,Matthew Parker,2181.54,2024-02,2024Q1
+ORD-0040,Brittany Farmer,stephen00@example.com,West,Clothing,2024-02-09,2,374.19,Completed,Stephen Owens,748.38,2024-02,2024Q1
+ORD-0041,Paula Moreno,gsimmons@example.com,South,Food,2024-02-10,11,104.18,,Miranda Gill,1145.98,2024-02,2024Q1
+ORD-0042,Fred Smith,fjones@example.com,South,Electronics,2024-02-11,4,434.72,Completed,Dale Edwards,1738.88,2024-02,2024Q1
+ORD-0043,Sherry Decker,,West,Clothing,2024-02-12,15,358.89,Completed,Sean Figueroa,5383.35,2024-02,2024Q1
+ORD-0044,Anthony Humphrey,cameronhill@example.net,North,Electronics,2024-02-13,6,283.56,Completed,,1701.36,2024-02,2024Q1
+ORD-0045,Angelica Tucker,oscar98@example.com,West,Food,2024-02-14,17,238.41,Pending,Juan Silva,4052.97,2024-02,2024Q1
+ORD-0046,Philip Cannon,bwagner@example.org,North,Food,2024-02-15,6,273.9,,Elizabeth Gonzalez,1643.4,2024-02,2024Q1
+ORD-0047,John Pierce,farrelldebra@example.net,North,Electronics,2024-02-16,19,83.83,Pending,Kelly Sanchez,1592.77,2024-02,2024Q1
+ORD-0048,Shane Henderson,russellbeasley@example.com,North,Electronics,2024-02-17,2,105.83,Pending,Terri Morgan,211.66,2024-02,2024Q1
+ORD-0049,Joshua Blair,maria66@example.net,West,Clothing,2024-02-18,15,50.13,Pending,Katherine Cummings,751.95,2024-02,2024Q1
+ORD-0050,Eric Carney,edwardslarry@example.com,North,Electronics,2024-02-19,11,81.06,Completed,Julia Oconnor,891.66,2024-02,2024Q1
+ORD-0051,Jessica Holmes,stephanie71@example.org,East,Electronics,2024-02-20,8,229.58,Completed,Charles Payne,1836.64,2024-02,2024Q1
+ORD-0052,Danny Morgan,daviscolin@example.net,West,,2024-02-21,19,267.53,Cancelled,Steve Mooney,5083.07,2024-02,2024Q1
+ORD-0053,Crystal Robinson,lisa80@example.net,East,Electronics,2024-02-22,13,13.84,Pending,Kelly Combs,179.92,2024-02,2024Q1
+ORD-0054,Mark Perez,elizabeth65@example.net,North,Clothing,2024-02-23,12,399.41,,Robert Williams,4792.92,2024-02,2024Q1
+ORD-0055,Shannon Jones,uparrish@example.org,South,,2024-02-24,5,150.61,Pending,Chad Mccoy,753.05,2024-02,2024Q1
+ORD-0056,Michael Lewis,caroline51@example.net,North,,2024-02-25,6,456.36,Pending,Chris Robinson,2738.16,2024-02,2024Q1
+ORD-0057,Timothy Duncan,ericolson@example.org,East,Food,2024-02-26,4,483.92,Completed,Antonio Little,1935.68,2024-02,2024Q1
+ORD-0058,Richard Aguirre,megan51@example.com,East,Electronics,2024-02-27,19,96.8,Pending,Susan Hopkins,1839.2,2024-02,2024Q1
+ORD-0059,Brent Jordan,,West,Food,2024-02-28,1,270.85,Cancelled,Joseph Jenkins,270.85,2024-02,2024Q1
+ORD-0060,John Daniel,lindsaybruce@example.net,South,Electronics,2024-02-29,17,5.61,Pending,Nathan Nichols,95.37,2024-02,2024Q1
+ORD-0061,Victoria Garcia,,West,Clothing,2024-03-01,12,301.17,Completed,Jonathan Wolfe,3614.04,2024-03,2024Q1
+ORD-0062,Gerald Hensley,anthony44@example.com,East,,2024-03-02,15,305.62,Pending,Todd White,4584.3,2024-03,2024Q1
+ORD-0063,Connor West,adam29@example.net,North,Electronics,2024-03-03,1,127.53,Completed,Kelly Allen,127.53,2024-03,2024Q1
+ORD-0064,Donald Wright,vjones@example.net,South,Electronics,2024-03-04,14,281.41,Completed,Dawn Gomez,3939.74,2024-03,2024Q1
+ORD-0065,Jessica Callahan,davisalyssa@example.com,North,Clothing,2024-03-05,6,116.64,Cancelled,Angela Chung,699.84,2024-03,2024Q1
+ORD-0066,Amber Kidd,,North,Clothing,2024-03-06,5,84.61,,David Terry,423.05,2024-03,2024Q1
+ORD-0067,Tracy House,jennifer99@example.org,South,Electronics,2024-03-07,11,327.5,Completed,Ronald Miller,3602.5,2024-03,2024Q1
+ORD-0068,Carol Tucker,moorekaren@example.org,West,Electronics,2024-03-08,4,166.33,Pending,Marie Johnson MD,665.32,2024-03,2024Q1
+ORD-0069,James Brown,nelsonebony@example.com,North,Clothing,2024-03-09,13,297.18,Completed,John Walsh,3863.34,2024-03,2024Q1
+ORD-0070,William Baker,nperry@example.net,East,Clothing,2024-03-10,11,219.46,Pending,Angela Bruce,2414.06,2024-03,2024Q1
+ORD-0071,Jordan Henderson,reeddaniel@example.net,North,Electronics,2024-03-11,3,492.25,,Erin Madden,1476.75,2024-03,2024Q1
+ORD-0072,Whitney Peters,trose@example.org,South,Clothing,2024-03-12,1,79.04,Completed,Stephanie Ellison,79.04,2024-03,2024Q1
+ORD-0073,Brittney Phillips,,South,Electronics,2024-03-13,6,234.98,,Steven Schwartz,1409.88,2024-03,2024Q1
+ORD-0074,Lauren Daniels,randallgreene@example.org,South,Electronics,2024-03-14,18,341.83,Completed,Denise Glass,6152.94,2024-03,2024Q1
+ORD-0075,Amy Silva,kevinclark@example.org,West,Clothing,2024-03-15,10,200.79,Pending,Diana Daniels,2007.9,2024-03,2024Q1
+ORD-0076,Sarah Moore,keith10@example.com,North,Electronics,2024-03-16,5,487.48,Completed,Cassie Jefferson,2437.4,2024-03,2024Q1
+ORD-0077,Angela Lopez,ythompson@example.net,West,Electronics,2024-03-17,10,362.33,Cancelled,Daniel Thomas,3623.3,2024-03,2024Q1
+ORD-0078,Megan Young,vincentwhitaker@example.com,West,Food,2024-03-18,12,330.21,,Samantha Hickman,3962.52,2024-03,2024Q1
+ORD-0079,Steve Sanchez,sandersjudy@example.com,South,,2024-03-19,2,379.74,Completed,,759.48,2024-03,2024Q1
+ORD-0080,Lisa Barnes,stevenschristian@example.com,South,Electronics,2024-03-20,13,476.56,Pending,Justin Knight,6195.28,2024-03,2024Q1
+ORD-0081,Kelly Donovan,tberry@example.net,West,Electronics,2024-03-21,8,454.37,Cancelled,Megan Fernandez,3634.96,2024-03,2024Q1
+ORD-0082,Mike Allen,zroberts@example.org,North,Electronics,2024-03-22,2,363.52,Pending,Patrick Gibbs,727.04,2024-03,2024Q1
+ORD-0083,Michael Evans,george97@example.net,East,Clothing,2024-03-23,1,375.84,,Angela Mcgee,375.84,2024-03,2024Q1
+ORD-0084,Paul Jones,christopher13@example.com,West,Electronics,2024-03-24,5,77.23,Completed,Brent Hall,386.15,2024-03,2024Q1
+ORD-0085,Zachary Ferrell,zwarren@example.com,North,Clothing,2024-03-25,9,55.88,Completed,Larry Austin,502.92,2024-03,2024Q1
+ORD-0086,Daniel Baker,jeffrey21@example.net,South,Electronics,2024-03-26,17,287.6,Completed,Tracy Nguyen,4889.2,2024-03,2024Q1
+ORD-0087,Shirley Suarez,schmidtjames@example.com,South,Clothing,2024-03-27,9,14.09,Pending,Rachel Hayes,126.81,2024-03,2024Q1
+ORD-0088,Christopher Bass,jessica23@example.org,North,Clothing,2024-03-28,11,243.77,Pending,Juan Bennett,2681.47,2024-03,2024Q1
+ORD-0089,Lisa Archer,jonathanthompson@example.org,East,,2024-03-29,15,109.12,Pending,Kevin James,1636.8,2024-03,2024Q1
+ORD-0090,Aimee Montoya,thompsonkendra@example.com,South,Food,2024-03-30,6,176.28,,Elizabeth Wright,1057.68,2024-03,2024Q1
+ORD-0091,Matthew Mcmillan,,South,Clothing,2024-03-31,3,389.02,Pending,Derrick James,1167.06,2024-03,2024Q1
+ORD-0092,Brian Rodriguez,kmaldonado@example.net,South,,2024-04-01,17,470.91,,Brittany Price,8005.47,2024-04,2024Q2
+ORD-0093,Denise Jacobs,michelle52@example.com,North,Clothing,2024-04-02,5,40.85,,Brandon Hahn,204.25,2024-04,2024Q2
+ORD-0094,Christina Walters,harrisoncrystal@example.com,West,Food,2024-04-03,12,269.45,,Philip Garcia,3233.4,2024-04,2024Q2
+ORD-0095,John Whitehead,bellcharles@example.com,South,Clothing,2024-04-04,18,441.85,Completed,Jeffrey Hawkins,7953.3,2024-04,2024Q2
+ORD-0096,Anna Henderson,xjohnson@example.com,West,Electronics,2024-04-05,14,45.84,Cancelled,Ashley Davis,641.76,2024-04,2024Q2
+ORD-0097,Aaron Wise,newmantiffany@example.org,East,Clothing,2024-04-06,11,413.13,,Linda Mueller,4544.43,2024-04,2024Q2
+ORD-0098,Deborah Figueroa,jford@example.net,South,Clothing,2024-04-07,9,182.11,,Alexandria Gutierrez,1638.99,2024-04,2024Q2
+ORD-0099,Jessica Smith,,South,,2024-04-08,9,270.85,Cancelled,Misty Hansen,2437.65,2024-04,2024Q2
+ORD-0100,Stephen Mckee,colelisa@example.net,East,Clothing,2024-04-09,12,488.85,Completed,Dana Meyer DDS,5866.2,2024-04,2024Q2
+ORD-0101,Sandra Aguilar,,South,Food,2024-04-10,9,104.43,,Derrick Adams,939.87,2024-04,2024Q2
+ORD-0102,Cameron Parker,marcalvarez@example.org,West,Clothing,2024-04-11,3,348.13,Completed,Christopher Hill,1044.39,2024-04,2024Q2
+ORD-0103,Rebecca Valencia,hayeslisa@example.com,North,Clothing,2024-04-12,1,411.61,Pending,Richard Ward,411.61,2024-04,2024Q2
+ORD-0104,Christine Wright,wagnergerald@example.org,West,Electronics,2024-04-13,8,25.39,Pending,Michelle Simpson,203.12,2024-04,2024Q2
+ORD-0105,Richard Henson,hritter@example.net,North,,2024-04-14,8,336.84,Pending,Judith Taylor,2694.72,2024-04,2024Q2
+ORD-0106,Marc Moore,michaelhardin@example.com,North,Electronics,2024-04-15,11,476.02,Pending,James Skinner,5236.22,2024-04,2024Q2
+ORD-0107,Sharon Cherry,rschroeder@example.net,West,Clothing,2024-04-16,9,66.49,Pending,Scott Alexander,598.41,2024-04,2024Q2
+ORD-0108,Sierra Johnson,mccormickdeborah@example.org,West,Electronics,2024-04-17,5,448.63,Pending,Rodney Curtis,2243.15,2024-04,2024Q2
+ORD-0109,Evelyn Galvan,cody64@example.com,West,Food,2024-04-18,14,299.41,Completed,Elizabeth Morrison,4191.74,2024-04,2024Q2
+ORD-0110,Sharon Cochran,mathewaguilar@example.org,West,Clothing,2024-04-19,3,310.22,Cancelled,Karen Thompson,930.66,2024-04,2024Q2
+ORD-0111,Richard Rodriguez,kyle62@example.net,East,Clothing,2024-04-20,5,308.41,Pending,Francis Navarro,1542.05,2024-04,2024Q2
+ORD-0112,Shannon Walker,collinsnicholas@example.com,South,Electronics,2024-04-21,5,152.92,Cancelled,Tracy Casey,764.6,2024-04,2024Q2
+ORD-0113,Julia Torres,elizabethcalderon@example.net,North,,2024-04-22,19,467.92,Completed,Douglas Hartman,8890.48,2024-04,2024Q2
+ORD-0114,Crystal Johnson,,West,Food,2024-04-23,14,473.94,Pending,Timothy Gonzalez,6635.16,2024-04,2024Q2
+ORD-0115,Garrett Lin,coxhenry@example.org,West,Food,2024-04-24,4,314.53,,Catherine Saunders MD,1258.12,2024-04,2024Q2
+ORD-0116,Diana May,stacey73@example.org,West,Electronics,2024-04-25,13,392.79,Cancelled,Terri Clark,5106.27,2024-04,2024Q2
+ORD-0117,William Herrera,ericphillips@example.org,East,Clothing,2024-04-26,10,308.07,Pending,Sandra Jones,3080.7,2024-04,2024Q2
+ORD-0118,Ashley Waller,stanleynancy@example.net,West,Electronics,2024-04-27,18,244.78,Pending,Rebecca Chambers,4406.04,2024-04,2024Q2
+ORD-0119,Victor Baker,carlamoore@example.org,West,Clothing,2024-04-28,8,332.11,Completed,,2656.88,2024-04,2024Q2
+ORD-0120,Jeffrey Chandler,jenniferwilliams@example.com,West,Electronics,2024-04-29,8,278.74,Cancelled,Eric King,2229.92,2024-04,2024Q2
+ORD-0121,Larry Dixon,tarabishop@example.net,South,Food,2024-04-30,7,300.75,,Jay Bennett,2105.25,2024-04,2024Q2
+ORD-0122,Kenneth Scott,pyoung@example.com,East,Electronics,2024-05-01,8,393.0,Cancelled,Kyle Aguilar,3144.0,2024-05,2024Q2
+ORD-0123,April Frost,mmckee@example.com,West,Clothing,2024-05-02,14,243.05,Pending,Tammy Kane,3402.7,2024-05,2024Q2
+ORD-0124,Michelle Harmon,smurray@example.com,North,,2024-05-03,19,25.17,,Andrew Schmitt,478.23,2024-05,2024Q2
+ORD-0125,Helen Jones,mburch@example.net,North,Electronics,2024-05-04,6,86.18,Completed,Robin Wheeler,517.08,2024-05,2024Q2
+ORD-0126,Erin Edwards,moniquewilliams@example.com,North,Electronics,2024-05-05,1,222.11,Completed,Ashley Wright,222.11,2024-05,2024Q2
+ORD-0127,Michelle Evans,angela18@example.org,East,Clothing,2024-05-06,15,363.79,Pending,Carol Salazar,5456.85,2024-05,2024Q2
+ORD-0128,Jason Powell,christopher24@example.com,East,Clothing,2024-05-07,1,298.67,Pending,Maria Lucas,298.67,2024-05,2024Q2
+ORD-0129,Cameron Fisher,,North,,2024-05-08,17,326.9,Pending,Erin Hogan,5557.3,2024-05,2024Q2
+ORD-0130,Megan Orr,mariahdavis@example.org,West,Food,2024-05-09,1,242.24,Completed,Brett Walker,242.24,2024-05,2024Q2
+ORD-0131,Elizabeth Kelley,bwilkerson@example.com,East,Clothing,2024-05-10,15,309.79,Completed,Kristin Watts,4646.85,2024-05,2024Q2
+ORD-0132,Dustin Jordan,sandersnathaniel@example.com,North,Clothing,2024-05-11,2,167.86,Pending,James Ford,335.72,2024-05,2024Q2
+ORD-0133,Mary Marshall,brooksanthony@example.org,North,Clothing,2024-05-12,14,237.74,Cancelled,Melissa Hernandez,3328.36,2024-05,2024Q2
+ORD-0134,Daniel Kennedy,lacey20@example.com,West,Clothing,2024-05-13,8,373.42,Completed,Mrs. Elizabeth Knapp MD,2987.36,2024-05,2024Q2
+ORD-0135,Rebecca Jackson,ihorton@example.net,South,Clothing,2024-05-14,8,436.56,Completed,Monica Bailey,3492.48,2024-05,2024Q2
+ORD-0136,Jose Schultz,awest@example.org,East,Clothing,2024-05-15,19,219.66,Cancelled,Richard Boyd,4173.54,2024-05,2024Q2
+ORD-0137,Robert Potter,scottmary@example.net,West,Food,2024-05-16,7,26.61,Pending,Brent Bowen,186.27,2024-05,2024Q2
+ORD-0138,Courtney Gonzalez,srodriguez@example.org,North,Electronics,2024-05-17,19,85.03,Pending,Austin Williams,1615.57,2024-05,2024Q2
+ORD-0139,David Alvarez,david36@example.net,North,Clothing,2024-05-18,6,270.85,Cancelled,Alison Cooper,1625.1,2024-05,2024Q2
+ORD-0140,Angel Perry,fbrown@example.net,West,,2024-05-19,6,328.37,Completed,Robert Spears,1970.22,2024-05,2024Q2
+ORD-0141,Cheyenne Horton,chenbailey@example.net,East,Electronics,2024-05-20,3,169.5,Pending,,508.5,2024-05,2024Q2
+ORD-0142,David Douglas Jr.,kellysmith@example.com,South,,2024-05-21,7,273.53,Pending,Kelli Arnold,1914.71,2024-05,2024Q2
+ORD-0143,Patricia Rodriguez,ashleylopez@example.net,South,Electronics,2024-05-22,19,249.17,,Jeffery Murray,4734.23,2024-05,2024Q2
+ORD-0144,Christopher Rubio,millsmichael@example.net,North,Food,2024-05-23,8,45.36,Cancelled,Lori Lopez,362.88,2024-05,2024Q2
+ORD-0145,Amber Wright,myerstheodore@example.net,East,Clothing,2024-05-24,10,204.61,Cancelled,Jennifer Mclaughlin,2046.1,2024-05,2024Q2
+ORD-0146,Joyce Solis,,South,Clothing,2024-05-25,15,270.85,Pending,Joanna Jordan,4062.75,2024-05,2024Q2
+ORD-0147,Victoria Larson,qzavala@example.net,East,Electronics,2024-05-26,15,212.11,Completed,Daniel Ramirez,3181.65,2024-05,2024Q2
+ORD-0148,Stephanie Salazar,kellycarlos@example.org,East,,2024-05-27,1,105.77,Pending,Rebecca Ray,105.77,2024-05,2024Q2
+ORD-0149,Kathy Rivas,ingramjill@example.com,North,Electronics,2024-05-28,7,421.02,Completed,Kimberly Diaz,2947.14,2024-05,2024Q2
+ORD-0150,Stephanie Manning,bradleypayne@example.net,South,Electronics,2024-05-29,4,91.23,Completed,Brian Lambert,364.92,2024-05,2024Q2
+ORD-0151,David Wright,mariacohen@example.net,West,Clothing,2024-05-30,6,480.59,Completed,Vincent Edwards MD,2883.54,2024-05,2024Q2
+ORD-0152,Pamela Boyd,zwelch@example.org,North,Electronics,2024-05-31,1,210.87,,Brian Bell,210.87,2024-05,2024Q2
+ORD-0153,Denise Jones,baldwinsherry@example.org,South,Clothing,2024-06-01,5,423.89,Pending,Christopher Nunez,2119.45,2024-06,2024Q2
+ORD-0154,Devon Flores,james30@example.com,South,Clothing,2024-06-02,1,316.24,Pending,Tamara Lawrence,316.24,2024-06,2024Q2
+ORD-0155,Brenda Hall,zachary87@example.com,South,Clothing,2024-06-03,4,369.0,Pending,Emily Allen,1476.0,2024-06,2024Q2
+ORD-0156,Michelle Brown,mullinsjames@example.com,South,,2024-06-04,2,385.02,,James Thomas,770.04,2024-06,2024Q2
+ORD-0157,Joshua Perry,glennmartin@example.org,South,,2024-06-05,10,254.9,Completed,Kyle Andrews,2549.0,2024-06,2024Q2
+ORD-0158,Jason Stein,samuel67@example.com,East,Food,2024-06-06,9,273.93,Completed,John Medina,2465.37,2024-06,2024Q2
+ORD-0159,Melissa Gates,terri77@example.com,North,Food,2024-06-07,10,259.43,,Tara Thompson,2594.3,2024-06,2024Q2
+ORD-0160,Jamie Smith,laurie61@example.com,East,Clothing,2024-06-08,1,296.09,,Dylan Lopez,296.09,2024-06,2024Q2
+ORD-0161,Paul Castaneda,amymorris@example.org,West,Electronics,2024-06-09,6,19.55,Completed,Lisa Glenn,117.3,2024-06,2024Q2
+ORD-0162,Jennifer Adkins,donna47@example.net,South,Electronics,2024-06-10,13,200.78,Pending,Kari Lee,2610.14,2024-06,2024Q2
+ORD-0163,Lindsey Walker,cjackson@example.com,North,,2024-06-11,9,305.06,Pending,Justin Delgado,2745.54,2024-06,2024Q2
+ORD-0164,Jeffrey Johnson,wwilliams@example.net,South,Electronics,2024-06-12,4,300.87,Completed,John Mckinney,1203.48,2024-06,2024Q2
+ORD-0165,Michael Powell,yhill@example.org,North,Clothing,2024-06-13,13,397.51,Completed,Christopher Cunningham,5167.63,2024-06,2024Q2
+ORD-0166,John Anderson,lambertrichard@example.net,East,,2024-06-14,9,329.23,Cancelled,Connie Johnson,2963.07,2024-06,2024Q2
+ORD-0167,Alyssa Long,stephaniethomas@example.net,North,,2024-06-15,8,496.11,Cancelled,Dylan Norman,3968.88,2024-06,2024Q2
+ORD-0168,Alyssa Day,ejohnson@example.org,West,Food,2024-06-16,5,145.51,,Patricia Simpson,727.55,2024-06,2024Q2
+ORD-0169,Joel Williams,,West,Electronics,2024-06-17,15,182.78,Cancelled,Laura Adams,2741.7,2024-06,2024Q2
+ORD-0170,Daniel Murphy,michael90@example.net,North,Electronics,2024-06-18,4,195.0,Pending,Wendy Weaver,780.0,2024-06,2024Q2
+ORD-0171,Jamie Walton,erikarush@example.com,North,Clothing,2024-06-19,12,235.58,Pending,Olivia Alexander,2826.96,2024-06,2024Q2
+ORD-0172,Darlene Miller,,North,Clothing,2024-06-20,13,418.82,Completed,Jeffery Fitzgerald,5444.66,2024-06,2024Q2
+ORD-0173,Joshua Cooke,khines@example.org,North,,2024-06-21,2,121.72,Pending,Danielle Golden,243.44,2024-06,2024Q2
+ORD-0174,Matthew Harrington,raymond43@example.org,West,Clothing,2024-06-22,19,389.12,Completed,,7393.28,2024-06,2024Q2
+ORD-0175,Nicole Herring,fitzgeraldvictor@example.com,South,Food,2024-06-23,9,205.63,Completed,Dennis Atkins,1850.67,2024-06,2024Q2
+ORD-0176,Alex Hernandez,greenjorge@example.com,North,Food,2024-06-24,4,302.92,Pending,Sean Wilson,1211.68,2024-06,2024Q2
+ORD-0177,Michael Elliott,wendymitchell@example.com,North,,2024-06-25,4,318.11,,Christine Rojas,1272.44,2024-06,2024Q2
+ORD-0178,Michael Wang,davidfarrell@example.com,West,Electronics,2024-06-26,11,189.56,Cancelled,,2085.16,2024-06,2024Q2
+ORD-0179,Lawrence Adkins,rachelwallace@example.org,West,Clothing,2024-06-27,5,258.74,Pending,Shannon Bishop,1293.7,2024-06,2024Q2
+ORD-0180,Robert Oconnell,elizabeth18@example.net,East,,2024-06-28,11,209.45,Pending,Luis Glover,2303.95,2024-06,2024Q2
+ORD-0181,Alexander Collins,patricia22@example.com,North,Clothing,2024-06-29,10,39.22,,Renee Hudson,392.2,2024-06,2024Q2
+ORD-0182,Tina Sanders,davidharris@example.org,East,Clothing,2024-06-30,8,221.4,Pending,Linda Jackson,1771.2,2024-06,2024Q2
+ORD-0183,Angela Vaughn,kristyjohnson@example.net,West,Clothing,2024-07-01,6,53.21,,Eileen Armstrong,319.26,2024-07,2024Q3
+ORD-0184,Ashley Barton,tanner82@example.net,West,,2024-07-02,6,205.49,Pending,Kayla Mccullough,1232.94,2024-07,2024Q3
+ORD-0185,Lindsay Martinez,jonesraymond@example.net,South,Food,2024-07-03,8,298.49,Pending,Brandy Brady,2387.92,2024-07,2024Q3
+ORD-0186,Dr. Hannah Patterson,xfox@example.com,North,Food,2024-07-04,15,270.85,,Anthony Ramirez,4062.75,2024-07,2024Q3
+ORD-0187,Jonathan Peterson,martinezlogan@example.org,East,Clothing,2024-07-05,14,333.0,,Meredith Anderson,4662.0,2024-07,2024Q3
+ORD-0188,Samantha Garcia,howens@example.com,West,Electronics,2024-07-06,11,52.15,Completed,Frank Wright,573.65,2024-07,2024Q3
+ORD-0189,Madison Poole,nataliedeleon@example.net,West,Electronics,2024-07-07,12,327.8,Completed,Jenna Thomas,3933.6,2024-07,2024Q3
+ORD-0190,Jessica Gross,katrinaanderson@example.net,East,,2024-07-08,13,159.51,Completed,Lori Brooks,2073.63,2024-07,2024Q3
+ORD-0191,Debra Morton,guerraapril@example.com,South,Electronics,2024-07-09,8,202.53,Pending,Robert Mack,1620.24,2024-07,2024Q3
+ORD-0192,Karen Graham,fernandodonovan@example.org,West,Electronics,2024-07-10,18,429.7,Completed,Paul Neal,7734.6,2024-07,2024Q3
+ORD-0193,Debra Christian,stacey84@example.org,North,,2024-07-11,1,9.47,Completed,Jordan Freeman,9.47,2024-07,2024Q3
+ORD-0194,Angelica Keith,james84@example.org,West,Clothing,2024-07-12,15,296.26,Completed,Sheila Boone,4443.9,2024-07,2024Q3
+ORD-0195,John Bishop,christina18@example.net,North,Food,2024-07-13,8,301.36,Pending,William Reid,2410.88,2024-07,2024Q3
+ORD-0196,Allen Rosales,brittanycarpenter@example.org,East,Electronics,2024-07-14,11,201.35,,,2214.85,2024-07,2024Q3
+ORD-0197,Daniel Salinas,megan90@example.org,North,Clothing,2024-07-15,12,122.33,Cancelled,Sarah Flynn,1467.96,2024-07,2024Q3
+ORD-0198,Spencer Haynes,williamsdarlene@example.net,East,Clothing,2024-07-16,12,121.16,Pending,Walter Summers,1453.92,2024-07,2024Q3
+ORD-0199,Adam Vaughan,debra96@example.net,North,Electronics,2024-07-17,4,442.44,Pending,Frank Campbell MD,1769.76,2024-07,2024Q3
+ORD-0200,Nathan Freeman,jimenezcourtney@example.com,East,Clothing,2024-07-18,16,223.8,Completed,,3580.8,2024-07,2024Q3
+ORD-0201,Melissa Brewer,timothy64@example.com,North,Electronics,2024-07-19,4,168.79,Completed,Samuel Kramer,675.16,2024-07,2024Q3
+ORD-0202,Ricky Davis II,barkereric@example.com,South,Clothing,2024-07-20,5,227.14,,Pamela Williams,1135.7,2024-07,2024Q3
+ORD-0203,Elizabeth Perkins,,North,Electronics,2024-07-21,5,336.35,Pending,Sara Smith,1681.75,2024-07,2024Q3
+ORD-0204,Joseph Coleman,larryhiggins@example.net,North,Electronics,2024-07-22,8,77.15,,Brooke Bryant,617.2,2024-07,2024Q3
+ORD-0205,Erin Warner,theresa25@example.net,South,Electronics,2024-07-23,9,227.47,Pending,Jessica Forbes DVM,2047.23,2024-07,2024Q3
+ORD-0206,David Martinez,,West,Clothing,2024-07-24,17,296.0,Cancelled,Elizabeth Baxter,5032.0,2024-07,2024Q3
+ORD-0207,Bryan Herrera,floressteven@example.com,West,Clothing,2024-07-25,9,474.55,Completed,Anna Ward,4270.95,2024-07,2024Q3
+ORD-0208,Cathy Robinson,gwright@example.org,North,,2024-07-26,19,130.0,Completed,Matthew Banks,2470.0,2024-07,2024Q3
+ORD-0209,Dr. William Warren,,South,Clothing,2024-07-27,14,182.83,Cancelled,Mario Barber,2559.62,2024-07,2024Q3
+ORD-0210,Brian Lee,sonia96@example.org,North,Clothing,2024-07-28,8,192.78,Completed,,1542.24,2024-07,2024Q3
+ORD-0211,Christopher Smith,lisapeck@example.net,East,Clothing,2024-07-29,9,304.74,,Jessica Davis,2742.66,2024-07,2024Q3
+ORD-0212,Denise Mccann,james27@example.net,East,,2024-07-30,11,181.58,Cancelled,,1997.38,2024-07,2024Q3
+ORD-0213,Melissa Martinez,tjimenez@example.com,North,Food,2024-07-31,1,269.09,,Daniel Miller,269.09,2024-07,2024Q3
+ORD-0214,Katherine Salas,davisphillip@example.com,West,Food,2024-08-01,14,391.99,Pending,Kelly Wallace,5487.86,2024-08,2024Q3
+ORD-0215,Julie Alexander,jasongomez@example.org,West,Food,2024-08-02,5,270.85,Completed,Greg Martinez,1354.25,2024-08,2024Q3
+ORD-0216,Anthony Everett,troy74@example.net,North,Food,2024-08-03,14,270.85,,Melissa Woods,3791.9,2024-08,2024Q3
+ORD-0217,Rodney Morales,booneryan@example.com,North,Electronics,2024-08-04,4,432.79,Pending,Brandon Shaffer,1731.16,2024-08,2024Q3
+ORD-0218,Mark Brown,kathryn50@example.com,East,Food,2024-08-05,1,281.28,,Jacob Evans,281.28,2024-08,2024Q3
+ORD-0219,Justin Torres,hudsonjames@example.net,West,,2024-08-06,19,272.25,Pending,Robert Baxter,5172.75,2024-08,2024Q3
+ORD-0220,Bailey Duran DDS,charles87@example.net,North,Electronics,2024-08-07,8,21.92,Completed,Megan Jones,175.36,2024-08,2024Q3
+ORD-0221,Courtney Mills,marcia99@example.org,East,Electronics,2024-08-08,15,493.41,Cancelled,Lisa Martin,7401.15,2024-08,2024Q3
+ORD-0222,Jeremy Dalton,theresalong@example.com,West,Electronics,2024-08-09,9,65.87,Pending,Daniel Goodman,592.83,2024-08,2024Q3
+ORD-0223,Elizabeth Oliver DDS,kari39@example.net,South,Food,2024-08-10,9,119.41,Completed,Lisa Ramos,1074.69,2024-08,2024Q3
+ORD-0224,Theresa Clark,,East,Food,2024-08-11,9,30.59,,Steven Taylor,275.31,2024-08,2024Q3
+ORD-0225,Matthew Moore,jenniferbrock@example.net,West,Food,2024-08-12,10,321.8,Completed,Nicholas Bell,3218.0,2024-08,2024Q3
+ORD-0226,Benjamin Smith,ghernandez@example.org,West,Clothing,2024-08-13,9,116.23,Completed,Richard Wright,1046.07,2024-08,2024Q3
+ORD-0227,Kirk Carter,sarah52@example.com,East,Clothing,2024-08-14,3,94.11,Pending,Danielle Burke,282.33,2024-08,2024Q3
+ORD-0228,Michael Warner,brittney88@example.net,South,Clothing,2024-08-15,11,48.84,Completed,Dominique Pugh,537.24,2024-08,2024Q3
+ORD-0229,Michael Bradshaw,terickson@example.com,East,Clothing,2024-08-16,6,56.14,Completed,Ryan Liu,336.84,2024-08,2024Q3
+ORD-0230,Lori Guerrero,richardsonemily@example.com,West,Food,2024-08-17,2,294.41,Cancelled,Lawrence Lopez,588.82,2024-08,2024Q3
+ORD-0231,Jessica Stephens,laura09@example.com,North,Food,2024-08-18,9,345.66,Completed,,3110.94,2024-08,2024Q3
+ORD-0232,Susan Serrano,tammy99@example.org,North,Clothing,2024-08-19,18,201.7,Cancelled,Matthew Bowers,3630.6,2024-08,2024Q3
+ORD-0233,Christopher Parker,silvageorge@example.net,East,Clothing,2024-08-20,2,242.55,Cancelled,Cynthia Cruz,485.1,2024-08,2024Q3
+ORD-0234,Laura Roberts,,West,Clothing,2024-08-21,17,344.55,Completed,Mark Jones,5857.35,2024-08,2024Q3
+ORD-0235,Michael Lyons,armstrongjackie@example.org,North,Electronics,2024-08-22,11,13.6,Completed,Alexandria Ward,149.6,2024-08,2024Q3
+ORD-0236,Kathryn Snyder,alexanderrobert@example.com,West,Clothing,2024-08-23,12,164.95,,James Combs,1979.4,2024-08,2024Q3
+ORD-0237,Andrew Reynolds,roberthampton@example.com,East,Clothing,2024-08-24,9,486.68,Pending,Joshua Thompson,4380.12,2024-08,2024Q3
+ORD-0238,David Davis,,North,,2024-08-25,7,292.16,Completed,William Jones,2045.12,2024-08,2024Q3
+ORD-0239,Sara Johnston,thorntonapril@example.net,West,Clothing,2024-08-26,6,130.84,Completed,Alexis Lewis,785.04,2024-08,2024Q3
+ORD-0240,Yvonne Chambers,whitney78@example.com,North,,2024-08-27,1,263.26,,Tiffany Sanders,263.26,2024-08,2024Q3
+ORD-0241,Andrew Avila,sue78@example.com,East,Electronics,2024-08-28,17,174.61,Completed,Micheal Wang,2968.37,2024-08,2024Q3
+ORD-0242,Matthew Moon,erica49@example.com,West,Clothing,2024-08-29,11,268.46,Completed,James Davidson,2953.06,2024-08,2024Q3
+ORD-0243,Kevin Walters,susanramirez@example.com,North,Electronics,2024-08-30,18,67.24,Cancelled,Brittany Miller,1210.32,2024-08,2024Q3
+ORD-0244,Brandon Bailey MD,shellyhendrix@example.com,East,Electronics,2024-08-31,17,70.69,,Thomas Mccann,1201.73,2024-08,2024Q3
+ORD-0245,Shannon Rivera,,North,Clothing,2024-09-01,7,76.05,,Gabriel Willis,532.35,2024-09,2024Q3
+ORD-0246,Donna Landry,hannahburns@example.com,North,,2024-09-02,17,470.21,Completed,Marie Day,7993.57,2024-09,2024Q3
+ORD-0247,Krista Gibson,ann44@example.org,South,Clothing,2024-09-03,9,367.78,Cancelled,Jeffrey Ashley,3310.02,2024-09,2024Q3
+ORD-0248,Frank Cordova,zhuang@example.com,South,Electronics,2024-09-04,17,85.38,Completed,David Middleton,1451.46,2024-09,2024Q3
+ORD-0249,Jose Travis,kellyroberts@example.net,East,,2024-09-05,8,98.23,Pending,Logan Brown,785.84,2024-09,2024Q3
+ORD-0250,Kimberly Gutierrez,reedscott@example.com,South,Clothing,2024-09-06,17,366.76,Pending,Mary Thompson,6234.92,2024-09,2024Q3
+ORD-0251,Isaiah Avila,,East,Clothing,2024-09-07,7,82.3,Completed,Chad Smith,576.1,2024-09,2024Q3
+ORD-0252,Olivia Harris,,South,Food,2024-09-08,1,121.11,Completed,Gregory Holmes PhD,121.11,2024-09,2024Q3
+ORD-0253,Tanya Kim,brentstein@example.org,North,Electronics,2024-09-09,13,481.86,Pending,Jacob Brady,6264.18,2024-09,2024Q3
+ORD-0254,Barbara Dudley,briangutierrez@example.net,East,Clothing,2024-09-10,19,131.38,Pending,Morgan Wilson,2496.22,2024-09,2024Q3
+ORD-0255,Cynthia Moore,xgarcia@example.org,East,Electronics,2024-09-11,19,332.51,Pending,Frances Patterson,6317.69,2024-09,2024Q3
+ORD-0256,Kristen Davis,oconnelltiffany@example.org,North,Electronics,2024-09-12,17,489.42,Cancelled,Deborah Proctor,8320.14,2024-09,2024Q3
+ORD-0257,Susan Murray MD,edelgado@example.com,East,,2024-09-13,13,190.28,Pending,Kathleen Dixon,2473.64,2024-09,2024Q3
+ORD-0258,Kathleen Moran,katelynmitchell@example.com,East,,2024-09-14,16,13.67,Cancelled,Scott Jackson,218.72,2024-09,2024Q3
+ORD-0259,Denise Davenport,velezchristopher@example.net,South,Food,2024-09-15,8,125.85,Completed,,1006.8,2024-09,2024Q3
+ORD-0260,Mrs. Kristen Reyes,amandasharp@example.org,East,Clothing,2024-09-16,19,416.28,,Raymond Shannon,7909.32,2024-09,2024Q3
+ORD-0261,Katie Suarez,robertmonroe@example.org,West,Electronics,2024-09-17,18,432.98,,Ashley Yang,7793.64,2024-09,2024Q3
+ORD-0262,Desiree Tyler,lfrench@example.net,North,Clothing,2024-09-18,1,385.42,,Scott Smith,385.42,2024-09,2024Q3
+ORD-0263,Timothy Romero,nancy04@example.net,South,Electronics,2024-09-19,14,60.99,Pending,,853.86,2024-09,2024Q3
+ORD-0264,Diane Evans,hebertmatthew@example.com,South,Electronics,2024-09-20,19,398.78,,Jack Mora,7576.82,2024-09,2024Q3
+ORD-0265,Yvonne Burns,ismall@example.net,West,Electronics,2024-09-21,15,459.75,Completed,Tyler Johnson,6896.25,2024-09,2024Q3
+ORD-0266,Joshua Reed,znelson@example.org,North,Food,2024-09-22,18,302.3,Cancelled,Michelle Rios,5441.4,2024-09,2024Q3
+ORD-0267,Kimberly Gibson,francisco74@example.net,North,Clothing,2024-09-23,2,470.73,Pending,David Moon,941.46,2024-09,2024Q3
+ORD-0268,Colin Terry,alexisrogers@example.com,South,Electronics,2024-09-24,17,414.29,Cancelled,Roger Duncan,7042.93,2024-09,2024Q3
+ORD-0269,Cynthia Rowe,gregorychase@example.com,East,,2024-09-25,9,335.15,Pending,Michael Williams,3016.35,2024-09,2024Q3
+ORD-0270,Patrick Thornton,frobertson@example.com,South,,2024-09-26,6,290.71,Cancelled,Jose Williams,1744.26,2024-09,2024Q3
+ORD-0271,Jasmin Alvarado,lopezdonald@example.com,North,Clothing,2024-09-27,19,177.54,Pending,Shawn Cline,3373.26,2024-09,2024Q3
+ORD-0272,Veronica Simpson,adamreyes@example.com,West,Electronics,2024-09-28,4,83.85,Cancelled,Emily Miller,335.4,2024-09,2024Q3
+ORD-0273,Jonathan Lawrence,stephanie49@example.net,South,,2024-09-29,9,304.45,,Jacob Carter,2740.05,2024-09,2024Q3
+ORD-0274,Shelly Alexander,greenmichael@example.org,North,Clothing,2024-09-30,8,162.47,Pending,Nancy Sanchez,1299.76,2024-09,2024Q3
+ORD-0275,Joyce Bowen,contrerassteven@example.org,South,Clothing,2024-10-01,7,433.89,Cancelled,Wesley Cuevas,3037.23,2024-10,2024Q4
+ORD-0276,Matthew Moore,tparks@example.com,East,Clothing,2024-10-02,3,496.7,Pending,Morgan Payne,1490.1,2024-10,2024Q4
+ORD-0277,Wayne Morgan,fowlershelia@example.com,South,,2024-10-03,10,377.45,Pending,Brittany Randolph,3774.5,2024-10,2024Q4
+ORD-0278,Marie Christian,jeffreyanderson@example.org,South,Food,2024-10-04,10,49.79,Pending,Joshua Fields,497.9,2024-10,2024Q4
+ORD-0279,Shannon James,madkins@example.com,North,Food,2024-10-05,19,147.9,Completed,Alexandra Rogers,2810.1,2024-10,2024Q4
+ORD-0280,Nathan Malone,emiles@example.net,North,Food,2024-10-06,14,59.01,Completed,Jamie Rojas,826.14,2024-10,2024Q4
+ORD-0281,Amanda Jones,kathleenbecker@example.net,North,,2024-10-07,2,327.0,Pending,Daniel Bird,654.0,2024-10,2024Q4
+ORD-0282,Tammie Bright,foxallison@example.com,South,Food,2024-10-08,1,383.77,Pending,Tyrone Kaufman,383.77,2024-10,2024Q4
+ORD-0283,Jessica Garcia,starkdaniel@example.net,East,Electronics,2024-10-09,9,463.21,Pending,Douglas Williams,4168.89,2024-10,2024Q4
+ORD-0284,Shelia Wallace,ashleyhernandez@example.com,West,Clothing,2024-10-10,7,221.9,Completed,Ryan Gutierrez,1553.3,2024-10,2024Q4
+ORD-0285,Stephanie Williams,nwilson@example.net,West,Clothing,2024-10-11,8,451.18,,Judy Adkins,3609.44,2024-10,2024Q4
+ORD-0286,Elaine Brooks,,North,Clothing,2024-10-12,1,439.56,Pending,Kathy Walsh,439.56,2024-10,2024Q4
+ORD-0287,Joseph Knight,gdavis@example.com,North,,2024-10-13,9,162.01,Completed,Kevin Brown,1458.09,2024-10,2024Q4
+ORD-0288,Carolyn Miller,chavezwilliam@example.com,South,Food,2024-10-14,8,435.11,,,3480.88,2024-10,2024Q4
+ORD-0289,Lisa Allen,hansenemily@example.com,West,Food,2024-10-15,15,190.96,Pending,,2864.4,2024-10,2024Q4
+ORD-0290,Briana Murray,fosterlisa@example.net,North,Electronics,2024-10-16,5,151.95,Cancelled,Bianca Carter,759.75,2024-10,2024Q4
+ORD-0291,David Smith,,East,Clothing,2024-10-17,3,326.29,Completed,Tammy Long,978.87,2024-10,2024Q4
+ORD-0292,Stephanie Byrd,,East,Electronics,2024-10-18,19,167.55,Completed,Erika Chavez,3183.45,2024-10,2024Q4
+ORD-0293,Jeremy Reed,bethwilliams@example.com,North,Clothing,2024-10-19,1,316.95,Completed,Tony Taylor,316.95,2024-10,2024Q4
+ORD-0294,Margaret Coleman,weaverbrian@example.org,North,Electronics,2024-10-20,15,306.87,,Ashley Garcia,4603.05,2024-10,2024Q4
+ORD-0295,Ryan Gonzalez,ajohnson@example.org,West,Electronics,2024-10-21,8,283.9,Completed,Erik Martinez,2271.2,2024-10,2024Q4
+ORD-0296,John Young,katiegood@example.net,West,,2024-10-22,2,193.31,,Randy Hayes,386.62,2024-10,2024Q4
+ORD-0297,Laura Haney,ybrooks@example.com,South,Clothing,2024-10-23,3,276.51,,Samuel Davis,829.53,2024-10,2024Q4
+ORD-0298,William Barrett,rbennett@example.net,West,,2024-10-24,14,300.26,Completed,Elizabeth Bush,4203.64,2024-10,2024Q4
+ORD-0299,Keith Jennings,desireebailey@example.org,East,Electronics,2024-10-25,14,275.12,Completed,Cindy Gates,3851.68,2024-10,2024Q4
+ORD-0300,Amber Obrien,urice@example.org,East,Electronics,2024-10-26,11,224.99,Completed,Michael Schmitt,2474.89,2024-10,2024Q4
