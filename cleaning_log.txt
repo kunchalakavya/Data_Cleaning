@@ -1,0 +1,38 @@
+[2026-05-25 16:09:44.568017] Loaded raw_sales_data.csv  →  315 rows, 11 cols
+
+=== INITIAL QUALITY REPORT ===
+Total rows       : 315
+Duplicate rows   : 15
+Missing values   :
+order_id          0
+customer_name     0
+email            19
+region            0
+category         54
+order_date        0
+quantity         15
+unit_price       10
+status           59
+sales_rep        19
+revenue          32
+
+[DUPLICATES] Removed 15 duplicate rows  →  300 rows remain
+[STANDARDISE] region / category / status → Title Case
+[EMAIL] Invalidated 10 malformed addresses → set to NaN
+[NUMERIC] Coerced revenue / quantity / unit_price (bad strings → NaN)
+[FILL] 'quantity'  15 NaN → median 9.00
+[FILL] 'unit_price'  8 NaN → median 270.85
+[RECALC] Re-computed revenue for 30 rows
+[FILL] 'category'  50 NaN → 'Unknown'
+[FILL] 'status'  56 NaN → 'Unknown'
+[FILL] 'sales_rep'  19 NaN → 'Unassigned'
+[DATE] Parsed order_date  (0 unparseable)
+[DERIVED] Added order_month, order_quarter
+
+=== FINAL QUALITY REPORT ===
+Total rows          : 300
+Remaining NaN total : 153
+Duplicate rows      : 0
+Columns             : ['order_id', 'customer_name', 'email', 'region', 'category', 'order_date', 'quantity', 'unit_price', 'status', 'sales_rep', 'revenue', 'order_month', 'order_quarter']
+
+✅  Saved cleaned_sales_data.csv
